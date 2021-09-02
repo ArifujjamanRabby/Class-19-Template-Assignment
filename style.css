@@ -390,7 +390,7 @@ footer{
 }
 .copy-right p{
     font-size: 21px;
-    color: #fff;
+    color: rgb(202, 202, 202);
 }
 .social-menu{
     width: 34%;
@@ -403,7 +403,7 @@ footer{
 }
 .social-menu ul li a{
     font-size: 21px;
-    color: #fff;
+    color: rgb(202, 202, 202);
     display: block;
     padding: 0px 20px;
 }
